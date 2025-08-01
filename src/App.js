@@ -32,16 +32,17 @@ export default function App() {
           <h2 className="text-3xl font-semibold mb-6">Projects</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-white shadow rounded-xl p-5">
-              <h3 className="text-xl font-semibold">Project One</h3>
+              <h3 className="text-xl font-semibold">Chat App</h3>
               <p className="text-sm text-gray-600 mt-2">
-                A web app that does XYZ using React, Flask, and PostgreSQL. Includes full CRUD and authentication.
+                A web app that allows users to chat in a chat room in real-time using Web Sockets, Node.js, HTML, and CSS.
               </p>
-              <a href="#" className="inline-block mt-3 text-blue-600 hover:underline">GitHub</a>
+              <a href="https://github.com/tylerd92/node-chat-app" className="inline-block mt-3 text-blue-600 hover:underline" target="_blank">GitHub</a>
+              <a href="https://node-chat-app-tylerd92.onrender.com/" className="inline-block ml-3 text-blue-600 hover:underline" target="_blank">Live Demo</a>
             </div>
             <div className="bg-white shadow rounded-xl p-5">
-              <h3 className="text-xl font-semibold">Project Two</h3>
+              <h3 className="text-xl font-semibold">Calculator App</h3>
               <p className="text-sm text-gray-600 mt-2">
-                Another cool project description with key highlights.
+                A calculator app build with Python, FastAPI, JavaScript, HTML, and TailwindCSS. It allows users login to their account and perform basic arithmetic operations.
               </p>
               <a href="#" className="inline-block mt-3 text-blue-600 hover:underline">Live Demo</a>
             </div>
@@ -50,7 +51,7 @@ export default function App() {
 
         <section id="contact">
           <h2 className="text-3xl font-semibold mb-4">Contact</h2>
-          <p>You can reach me at <a href="mailto:tyler@example.com" className="text-blue-600">tyler@example.com</a> or connect on <a href="https://linkedin.com" className="text-blue-600">LinkedIn</a>.</p>
+          <p>You can reach me at <a href="mailto:tylerdeans@proton.me" className="text-blue-600">tylerdeans@proton.me</a> or connect on <a href="https://linkedin.com" className="text-blue-600">LinkedIn</a>.</p>
         </section>
       </main>
 
