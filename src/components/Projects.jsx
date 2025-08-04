@@ -1,7 +1,7 @@
 const Projects = () => {
   return (
     <section id='projects'>
-      <h2 className='text-3xl font-semibold mb-6'>Projects</h2>
+      <h2 className='text-3xl font-semibold mb-6'>Featured Projects</h2>
       <div className='grid md:grid-cols-2 gap-6'>
         <div className='bg-white shadow rounded-xl p-5'>
           <h3 className='text-xl font-semibold'>Chat App</h3>

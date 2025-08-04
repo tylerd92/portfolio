@@ -1,8 +1,8 @@
-import Projects from "./components/Projects";
-import Header from "./components/Header";
-import Contact from "./components/Contact";
+import Projects from "../components/Projects";
+import Header from "../components/Header";
+import Contact from "../components/Contact";
 
-export default function App() {
+const Home = () => {
   return (
     <div className='min-h-screen bg-gray-100 text-gray-900'>
       <Header />
@@ -35,5 +35,7 @@ export default function App() {
         &copy; 2025 Tyler Deans. All rights reserved.
       </footer>
     </div>
-  );
+  )
 }
+
+export default Home;
