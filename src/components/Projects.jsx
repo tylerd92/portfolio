@@ -24,7 +24,7 @@ const Projects = () => {
             Live Demo
           </a>
         </div>
-        <div className='bg-white shadow rounded-xl p-5'>
+        {/* <div className='bg-white shadow rounded-xl p-5'>
           <h3 className='text-xl font-semibold'>Calculator App</h3>
           <p className='text-sm text-gray-600 mt-2'>
             TBD
@@ -35,7 +35,7 @@ const Projects = () => {
           >
             Live Demo
           </a>
-        </div>
+        </div> */}
       </div>
     </section>
   );
