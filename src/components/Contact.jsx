@@ -7,13 +7,21 @@ const Contact = () => {
         <a href='mailto:tylerdeans@proton.me' className='text-blue-600'>
           tylerdeans@proton.me
         </a>{" "}
-        or connect on{" "}
+        , connect on{" "}
         <a
           href='https://www.linkedin.com/in/tylerdeans/'
           className='text-blue-600'
           target='_blank'
         >
           LinkedIn
+        </a>
+        , or find my Github{" "}
+        <a
+          href='https://github.com/tylerd92'
+          className='text-blue-600'
+          target='_blank'
+        >
+          page
         </a>
         .
       </p>
