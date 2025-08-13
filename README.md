@@ -12,6 +12,7 @@ This is a portfolio website built with React, showcasing my projects and skills 
 
 - React
 - Tailwind CSS
+- React Router
 
 ### Live Link
 [Portfolio Website](https://tylerdeans.dev)
