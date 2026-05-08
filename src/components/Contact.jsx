@@ -4,9 +4,9 @@ const Contact = () => {
       <h2 className='text-3xl font-semibold mb-4'>Contact</h2>
       <p>
         You can reach me at{" "}
-        <a href='mailto:tylerdeans@proton.me' className='text-blue-600'>
-          tylerdeans@proton.me
-        </a>{" "}
+        <a href='mailto:twdeans@gmail.com' className='text-blue-600'>
+          twdeans@gmail.com
+        </a>
         , connect on{" "}
         <a
           href='https://www.linkedin.com/in/tylerdeans/'
